@@ -1,0 +1,9 @@
+{
+  "favorite_color": ["Black", "Blue", "Dark Red"],
+  "coutry": {
+    "name": "Qatar",
+    "population": 2992409,
+    "visiting": true
+  },
+  "favorite_food": ["Nasi Lemak", "Nasi Dagang", "Nasi Ayam"]
+}
