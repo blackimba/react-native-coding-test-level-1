@@ -4,5 +4,6 @@
     "name": "Qatar",
     "population": 2992409,
     "visiting": true
-  }
+  },
+  "favoriteFood": ["Nasi Lemak", "Nasi Dagang", "Nasi Ayam"]
 }
